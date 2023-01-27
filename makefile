@@ -1,4 +1,4 @@
-DEPS = Au
+DEPS = a.out
 compile: main.c 
 	gcc main.c -o $(DEPS)
 
